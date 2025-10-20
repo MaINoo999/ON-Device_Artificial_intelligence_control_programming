@@ -1,11 +1,11 @@
-# 📊 연합뉴스 RSS 뉴스 자동 수집 및 시각화
+# 연합뉴스 RSS 뉴스 자동 수집 및 시각화
 
 > Python을 활용해 연합뉴스 경제·증권 뉴스 RSS를 자동으로 수집하고,  
 > 최근 7일치 데이터를 분석·시각화하여 Excel과 차트로 확인할 수 있는 프로젝트
 
 ---
 
-## 1️⃣ 프로젝트 개요
+## 프로젝트 개요
 
 - 연합뉴스의 **경제·증권 뉴스 RSS**를 수집
 - 최근 7일치 뉴스 데이터를 기준으로 **제목, 날짜, 카테고리** 저장
@@ -44,5 +44,4 @@
 1. 저장소 클론
 
 ```bash
-git clone https://github.com/username/your-repo.git
-cd your-repo
+naver_stock_news_crawler
