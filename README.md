@@ -44,4 +44,4 @@
 1. 저장소 클론
 
 ```bash
-naver_stock_news_crawler
+git clone https://github.com/username/naver_stock_news_crawler
